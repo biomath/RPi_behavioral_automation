@@ -9,7 +9,7 @@ __version__ = '04/28/2019'
 
 if __name__ == "__main__":
     """
-    This file is a driver for Booth.py and should be run as sudo python Booth_driver_4.py
+    This file is a driver for Booth.py and should be run as sudo python Booth_driver.py
     Booth.py should not be run directly.
     """
 
